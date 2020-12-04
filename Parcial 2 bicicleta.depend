@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1607038786 source:/home/ronymartinez/Copia Ubuntu/Parcial 2 bicicleta/bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicleta.h"
+	"string.h"
+	"utn.h"
+	"stdio_ext.h"
+	"informes.h"
+
+1606880904 /home/ronymartinez/Copia Ubuntu/Parcial 2 bicicleta/LinkedList.h
+
+1607036948 /home/ronymartinez/Copia Ubuntu/Parcial 2 bicicleta/bicicleta.h
+
+1606969630 /home/ronymartinez/Copia Ubuntu/Parcial 2 bicicleta/utn.h
+
+1607038846 source:/home/ronymartinez/Copia Ubuntu/Parcial 2 bicicleta/informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"string.h"
+	"stdio_ext.h"
+	"LinkedList.h"
+	"utn.h"
+	"parser.h"
+	"bicicleta.h"
+	"informes.h"
+
+1607037700 /home/ronymartinez/Copia Ubuntu/Parcial 2 bicicleta/parser.h
+
+1606968211 source:/home/ronymartinez/Copia Ubuntu/Parcial 2 bicicleta/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"bicicleta.h"
+
+1607035966 source:/home/ronymartinez/Copia Ubuntu/Parcial 2 bicicleta/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"utn.h"
+	"parser.h"
+	"bicicleta.h"
+	"informes.h"
+	"stdio_ext.h"
+	"string.h"
+	<time.h>
+
+1607037646 /home/ronymartinez/Copia Ubuntu/Parcial 2 bicicleta/informes.h
+
+1607038006 source:/home/ronymartinez/Copia Ubuntu/Parcial 2 bicicleta/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"utn.h"
+	"parser.h"
+	"bicicleta.h"
+
+1603051252 source:/home/ronymartinez/Copia Ubuntu/Parcial 2 bicicleta/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
